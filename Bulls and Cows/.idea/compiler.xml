@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Bulls_and_Cows-task_main" target="11" />
+      <module name="Bulls_and_Cows-task_test" target="11" />
+      <module name="Problems-Area_of_a_circle_main" target="11" />
+      <module name="Problems-Area_of_a_circle_test" target="11" />
+      <module name="Problems-Army_main" target="11" />
+      <module name="Problems-Army_test" target="11" />
+      <module name="Problems-Book_main" target="11" />
+      <module name="Problems-Book_test" target="11" />
+      <module name="Problems-Concat_all_strings_without_digits_main" target="11" />
+      <module name="Problems-Concat_all_strings_without_digits_test" target="11" />
+      <module name="Problems-Counter_main" target="11" />
+      <module name="Problems-Counter_test" target="11" />
+      <module name="Problems-Heron's_formula_main" target="11" />
+      <module name="Problems-Heron's_formula_test" target="11" />
+      <module name="Problems-Inner_boxes_main" target="11" />
+      <module name="Problems-Inner_boxes_test" target="11" />
+      <module name="Problems-Points_on_the_2D_plane_main" target="11" />
+      <module name="Problems-Points_on_the_2D_plane_test" target="11" />
+      <module name="Problems-Pow_main" target="11" />
+      <module name="Problems-Pow_test" target="11" />
+      <module name="Problems-Preparing_full_name_main" target="11" />
+      <module name="Problems-Preparing_full_name_test" target="11" />
+      <module name="Problems-Representing_time_as_a_class_main" target="11" />
+      <module name="Problems-Representing_time_as_a_class_test" target="11" />
+      <module name="Problems-The_angle_between_vectors_main" target="11" />
+      <module name="Problems-The_angle_between_vectors_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

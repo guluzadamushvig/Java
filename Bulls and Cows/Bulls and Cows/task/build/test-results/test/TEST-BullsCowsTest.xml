@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BullsCowsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-08T21:24:18" hostname="DESKTOP-O1BSV0J" time="0.77">
+  <properties/>
+  <testcase name="start" classname="BullsCowsTest" time="0.77"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Please, enter the secret code's length:
+> 1
+Okay, let's start a game!
+Turn 1
+> 0
+Grade: 0 bull(s) and 0 cow(s)
+Turn 2
+> 1
+Grade: 0 bull(s) and 0 cow(s)
+Turn 3
+> 2
+Grade: 0 bull(s) and 0 cow(s)
+Turn 4
+> 3
+Grade: 0 bull(s) and 0 cow(s)
+Turn 5
+> 4
+Grade: 1 bull(s) and 0 cow(s)
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 2?[0m
+Please, enter the secret code's length:
+> 4
+Okay, let's start a game!
+Turn 1
+> 0000
+Grade: 1 bull(s) and 3 cow(s)
+Turn 2
+> 1111
+Grade: 0 bull(s) and 0 cow(s)
+Turn 3
+> 2222
+Grade: 0 bull(s) and 0 cow(s)
+Turn 4
+> 3333
+Grade: 1 bull(s) and 3 cow(s)
+Turn 5
+> 4444
+Grade: 1 bull(s) and 3 cow(s)
+Turn 6
+> 5555
+Grade: 0 bull(s) and 0 cow(s)
+Turn 7
+> 6666
+Grade: 1 bull(s) and 3 cow(s)
+Turn 8
+> 0346
+Grade: 1 bull(s) and 3 cow(s)
+Turn 9
+> 3046
+Grade: 2 bull(s) and 2 cow(s)
+Turn 10
+> 4036
+Grade: 1 bull(s) and 3 cow(s)
+Turn 11
+> 0436
+Grade: 2 bull(s) and 2 cow(s)
+Turn 12
+> 3406
+Grade: 4 bull(s) and 0 cow(s)
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 3?[0m
+Please, enter the secret code's length:
+> 6
+Okay, let's start a game!
+Turn 1
+> 000000
+Grade: 0 bull(s) and 0 cow(s)
+Turn 2
+> 111111
+Grade: 1 bull(s) and 5 cow(s)
+Turn 3
+> 222222
+Grade: 1 bull(s) and 5 cow(s)
+Turn 4
+> 333333
+Grade: 1 bull(s) and 5 cow(s)
+Turn 5
+> 444444
+Grade: 1 bull(s) and 5 cow(s)
+Turn 6
+> 555555
+Grade: 0 bull(s) and 0 cow(s)
+Turn 7
+> 666666
+Grade: 1 bull(s) and 5 cow(s)
+Turn 8
+> 777777
+Grade: 1 bull(s) and 5 cow(s)
+Turn 9
+> 123467
+Grade: 1 bull(s) and 5 cow(s)
+Turn 10
+> 213467
+Grade: 2 bull(s) and 4 cow(s)
+Turn 11
+> 312467
+Grade: 1 bull(s) and 5 cow(s)
+Turn 12
+> 132467
+Grade: 2 bull(s) and 4 cow(s)
+Turn 13
+> 231467
+Grade: 4 bull(s) and 2 cow(s)
+Turn 14
+> 321467
+Grade: 2 bull(s) and 4 cow(s)
+Turn 15
+> 421367
+Grade: 2 bull(s) and 4 cow(s)
+Turn 16
+> 241367
+Grade: 3 bull(s) and 3 cow(s)
+Turn 17
+> 142367
+Grade: 1 bull(s) and 5 cow(s)
+Turn 18
+> 412367
+Grade: 1 bull(s) and 5 cow(s)
+Turn 19
+> 214367
+Grade: 2 bull(s) and 4 cow(s)
+Turn 20
+> 124367
+Grade: 1 bull(s) and 5 cow(s)
+Turn 21
+> 134267
+Grade: 2 bull(s) and 4 cow(s)
+Turn 22
+> 314267
+Grade: 1 bull(s) and 5 cow(s)
+Turn 23
+> 413267
+Grade: 1 bull(s) and 5 cow(s)
+Turn 24
+> 143267
+Grade: 1 bull(s) and 5 cow(s)
+Turn 25
+> 341267
+Grade: 2 bull(s) and 4 cow(s)
+Turn 26
+> 431267
+Grade: 3 bull(s) and 3 cow(s)
+Turn 27
+> 432167
+Grade: 2 bull(s) and 4 cow(s)
+Turn 28
+> 342167
+Grade: 1 bull(s) and 5 cow(s)
+Turn 29
+> 243167
+Grade: 2 bull(s) and 4 cow(s)
+Turn 30
+> 423167
+Grade: 1 bull(s) and 5 cow(s)
+Turn 31
+> 324167
+Grade: 1 bull(s) and 5 cow(s)
+Turn 32
+> 234167
+Grade: 3 bull(s) and 3 cow(s)
+Turn 33
+> 634127
+Grade: 2 bull(s) and 4 cow(s)
+Turn 34
+> 364127
+Grade: 1 bull(s) and 5 cow(s)
+Turn 35
+> 463127
+Grade: 1 bull(s) and 5 cow(s)
+Turn 36
+> 643127
+Grade: 1 bull(s) and 5 cow(s)
+Turn 37
+> 346127
+Grade: 1 bull(s) and 5 cow(s)
+Turn 38
+> 436127
+Grade: 2 bull(s) and 4 cow(s)
+Turn 39
+> 136427
+Grade: 2 bull(s) and 4 cow(s)
+Turn 40
+> 316427
+Grade: 1 bull(s) and 5 cow(s)
+Turn 41
+> 613427
+Grade: 1 bull(s) and 5 cow(s)
+Turn 42
+> 163427
+Grade: 1 bull(s) and 5 cow(s)
+Turn 43
+> 361427
+Grade: 2 bull(s) and 4 cow(s)
+Turn 44
+> 631427
+Grade: 3 bull(s) and 3 cow(s)
+Turn 45
+> 641327
+Grade: 2 bull(s) and 4 cow(s)
+Turn 46
+> 461327
+Grade: 2 bull(s) and 4 cow(s)
+Turn 47
+> 164327
+Grade: 1 bull(s) and 5 cow(s)
+Turn 48
+> 614327
+Grade: 1 bull(s) and 5 cow(s)
+Turn 49
+> 416327
+Grade: 1 bull(s) and 5 cow(s)
+Turn 50
+> 146327
+Grade: 1 bull(s) and 5 cow(s)
+Turn 51
+> 143627
+Grade: 2 bull(s) and 4 cow(s)
+Turn 52
+> 413627
+Grade: 2 bull(s) and 4 cow(s)
+Turn 53
+> 314627
+Grade: 2 bull(s) and 4 cow(s)
+Turn 54
+> 134627
+Grade: 3 bull(s) and 3 cow(s)
+Turn 55
+> 431627
+Grade: 4 bull(s) and 2 cow(s)
+Turn 56
+> 341627
+Grade: 3 bull(s) and 3 cow(s)
+Turn 57
+> 241637
+Grade: 4 bull(s) and 2 cow(s)
+Turn 58
+> 421637
+Grade: 3 bull(s) and 3 cow(s)
+Turn 59
+> 124637
+Grade: 2 bull(s) and 4 cow(s)
+Turn 60
+> 214637
+Grade: 3 bull(s) and 3 cow(s)
+Turn 61
+> 412637
+Grade: 2 bull(s) and 4 cow(s)
+Turn 62
+> 142637
+Grade: 2 bull(s) and 4 cow(s)
+Turn 63
+> 642137
+Grade: 1 bull(s) and 5 cow(s)
+Turn 64
+> 462137
+Grade: 1 bull(s) and 5 cow(s)
+Turn 65
+> 264137
+Grade: 2 bull(s) and 4 cow(s)
+Turn 66
+> 624137
+Grade: 1 bull(s) and 5 cow(s)
+Turn 67
+> 426137
+Grade: 1 bull(s) and 5 cow(s)
+Turn 68
+> 246137
+Grade: 2 bull(s) and 4 cow(s)
+Turn 69
+> 216437
+Grade: 2 bull(s) and 4 cow(s)
+Turn 70
+> 126437
+Grade: 1 bull(s) and 5 cow(s)
+Turn 71
+> 621437
+Grade: 2 bull(s) and 4 cow(s)
+Turn 72
+> 261437
+Grade: 3 bull(s) and 3 cow(s)
+Turn 73
+> 162437
+Grade: 1 bull(s) and 5 cow(s)
+Turn 74
+> 612437
+Grade: 1 bull(s) and 5 cow(s)
+Turn 75
+> 614237
+Grade: 1 bull(s) and 5 cow(s)
+Turn 76
+> 164237
+Grade: 1 bull(s) and 5 cow(s)
+Turn 77
+> 461237
+Grade: 2 bull(s) and 4 cow(s)
+Turn 78
+> 641237
+Grade: 2 bull(s) and 4 cow(s)
+Turn 79
+> 146237
+Grade: 1 bull(s) and 5 cow(s)
+Turn 80
+> 416237
+Grade: 1 bull(s) and 5 cow(s)
+Turn 81
+> 316247
+Grade: 2 bull(s) and 4 cow(s)
+Turn 82
+> 136247
+Grade: 3 bull(s) and 3 cow(s)
+Turn 83
+> 631247
+Grade: 4 bull(s) and 2 cow(s)
+Turn 84
+> 361247
+Grade: 3 bull(s) and 3 cow(s)
+Turn 85
+> 163247
+Grade: 2 bull(s) and 4 cow(s)
+Turn 86
+> 613247
+Grade: 2 bull(s) and 4 cow(s)
+Turn 87
+> 213647
+Grade: 4 bull(s) and 2 cow(s)
+Turn 88
+> 123647
+Grade: 3 bull(s) and 3 cow(s)
+Turn 89
+> 321647
+Grade: 4 bull(s) and 2 cow(s)
+Turn 90
+> 231647
+Grade: 6 bull(s) and 0 cow(s)
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 4?[0m
+Please, enter the secret code's length:
+> 11
+Error: can't generate a secret number with a length of 11 because there aren't enough unique digits.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
